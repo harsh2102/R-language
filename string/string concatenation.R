@@ -1,7 +1,7 @@
 #string concatenation
 
 str1 <- "Hi!"
-str2 <- "Harsh"
+str2 <- "There"
 
 str3 <- paste(str1,str2)
 print(str3)
