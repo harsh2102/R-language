@@ -12,5 +12,5 @@ if((var1 + var2)>100){
 }else if((var1 + var2)>45){
   print('the sum is greater than 45')
 }else{
-  print('the sum is greater than or equal to 40')
+  print('the sum is greater than & equal to 40')
 }
